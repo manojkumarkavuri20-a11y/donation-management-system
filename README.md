@@ -1,6 +1,6 @@
-# Donation Management System — Self-Initiated Portfolio Project
+# Donation Management System - Self-Initiated Portfolio Project
 
-**Portfolio project built for learning purposes. Modelled on a grassroots donation collection point of the type I supported during my internship at Care4Calais. The figures below are modelled estimates from the process redesign itself, not measured results from a live rollout — the system was not formally deployed.**
+**Portfolio project built for learning purposes. Modelled on a grassroots donation collection point of the type I supported during my internship at Care4Calais. The figures below are modelled estimates from the process redesign itself, not measured results from a live rollout - the system was not formally deployed.**
 
 Process design exercise: replacing ad-hoc, informal donation operations with a structured, scalable logistics framework, covering donation intake, storage, volunteer coordination, and stakeholder reporting.
 
@@ -8,11 +8,11 @@ Developed as part of an MSc International Business Management (Distinction) port
 
 ## Project Overview
 
-This project documents a proposed operational redesign of a grassroots donation management process, modelled on the type of operation I supported during my internship at Care4Calais. It is a self-initiated design exercise, not a delivered client engagement — the system was not formally implemented or measured in a live setting.
+This project documents a proposed operational redesign of a grassroots donation management process, modelled on the type of operation I supported during my internship at Care4Calais. It is a self-initiated design exercise, not a delivered client engagement - the system was not formally implemented or measured in a live setting.
 
 ## Five-Area Improvement Framework
 
-The design addresses five core operational areas: donation intake, with standardised intake forms and categorisation; storage management, using zone-based storage with audit trails; volunteer coordination, covering role definitions, training guides, and shift scheduling; donor communication, with templates for acknowledgement and updates; and reporting and analytics, delivered through Excel dashboards for real-time visibility. See `5_area_framework.png` for the visual version of this framework.
+The design addresses five core operational areas: donation intake (standardised intake forms and categorisation), storage management (zone-based storage with audit trails), volunteer coordination (role definitions, training guides, shift scheduling), donor communication (templates for acknowledgement and updates), and reporting (Excel dashboards for visibility). See `5_area_framework.png` for the visual version of this framework.
 
 ## Modelled Effect of the Redesign
 
@@ -28,11 +28,23 @@ These are estimates derived from the process design itself (based on removing du
 
 ## Project Files
 
-The core document is `Donation_Management_System_Refined.docx`, covering the full analysis, design, and implementation plan. `DonationTracker_v2.xlsx` is the companion Excel system: a complete donation tracking workbook with dashboards, intake logs, and reporting templates.
+The core document is `Donation_Management_System_Refined.docx`, covering the full analysis, design, and implementation plan. `DonationTracker_v2.xlsx` is the companion Excel system - a complete donation tracking workbook with dashboards, intake logs, and reporting templates.
 
-A set of implementation templates supports day-to-day use: `Communication_Templates.docx` for donor and stakeholder communication scripts, `Daily_Operations_Checklist.docx` for the day-to-day volunteer checklist, `Donor_Drop-off_Guide.docx` for step-by-step drop-off procedures, `Implementation_Checklist.docx` for a full rollout checklist, `Volunteer_Quick_Start_Guide.docx` for onboarding new volunteers, and `Zone_Audit_Checklist.docx` for storage zone inspection.
+Implementation templates for day-to-day use:
+- `Communication_Templates.docx` - donor and stakeholder communication scripts
+- `Daily_Operations_Checklist.docx` - day-to-day volunteer checklist
+- `Donor_Drop-off_Guide.docx` - step-by-step drop-off procedures
+- `Implementation_Checklist.docx` - full rollout checklist
+- `Volunteer_Quick_Start_Guide.docx` - onboarding new volunteers
+- `Zone_Audit_Checklist.docx` - storage zone inspection
 
-Five visual diagrams accompany the documents: `5_area_framework.png` for the operational improvement framework, `before_after_comparison.png` for the before/after process comparison, `storage_layout.png` for the optimised storage zone layout, `system_architecture.png` for the system architecture overview, and `workflow_process.png` for the end-to-end workflow map. `Project_Package_Summary.png` is a single-page visual summary of the whole package.
+Visual diagrams:
+- `5_area_framework.png` - operational improvement framework
+- `before_after_comparison.png` - before/after process comparison
+- `storage_layout.png` - optimised storage zone layout
+- `system_architecture.png` - system architecture overview
+- `workflow_process.png` - end-to-end workflow map
+- `Project_Package_Summary.png` - single-page visual summary
 
 ## Tools Used
 
@@ -44,7 +56,7 @@ Start by downloading `DonationTracker_v2.xlsx` to begin tracking donations immed
 
 ## Who This Is For
 
-This is aimed at nonprofit and charity organisations managing physical donations, community food banks, clothing drives, and refugee support centres, volunteer coordinators and operations managers, and students studying operations, logistics, or nonprofit management.
+This is aimed at nonprofit and charity organisations managing physical donations, community food banks, clothing drives, and refugee support centres - as well as volunteer coordinators, operations managers, and students studying operations, logistics, or nonprofit management.
 
 ## Author
 
